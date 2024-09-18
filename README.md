@@ -33,9 +33,9 @@ In questa parte sono documentati i metodi e gli strumenti utilizzati per analizz
 
 ## Risorse Utili
 
-- [Link a risorse esterne](https://esempio.com) 
-- [Documentazione aggiuntiva](https://esempio.com)
-- [Esempi di strumenti e tecniche](https://esempio.com)
+- [Link a risorse esterne](https://epicode.com) 
+- [Documentazione aggiuntiva](https://epicode.com)
+- [Esempi di strumenti e tecniche](https://epicode.com)
 
 ## Conclusione
 
